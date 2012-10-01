@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<root>
+    <users>
+        <user>
+            <url>jdbc:mysql://localhost/certextrdb</url>
+            <username>root</username>
+            <password>1234.santi</password>
+        </user>
+    </users>
+</root>
